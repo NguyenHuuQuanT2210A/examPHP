@@ -42,7 +42,7 @@ if($result->num_rows > 0){
         <tr>
             <th scope="col">ID</th>
             <th scope="col">Name</th>
-            <th scope="col">Age</th>
+            <th scope="col">Aged</th>
             <th scope="col">Address</th>
             <th scope="col">Telephone</th>
         </tr>
